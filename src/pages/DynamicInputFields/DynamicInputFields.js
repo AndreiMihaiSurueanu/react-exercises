@@ -1,5 +1,5 @@
 import React from 'react'
-import Dynamic from '../components/Dynamic'
+import Dynamic from '../../components/Dynamic/Dynamic'
 
 function DynamicInputFields() {
     return (
