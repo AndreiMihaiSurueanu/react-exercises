@@ -6,6 +6,7 @@ function Home() {
     return (
         <div>
             <Link to="/dynamicInputFields">Dynamic Input Fields</Link>
+            <Link to="/magicPopUp">Magic React Pop-up</Link>
         </div>
     )
 }
