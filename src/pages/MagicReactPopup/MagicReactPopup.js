@@ -11,7 +11,7 @@ function MagicReactPopup() {
         }, 3000);
     }, []);
     return (
-        <div>
+        <div className='MagicReactPopup'>
             <main>
                 <h1>React Popups</h1>
                 <br /><br />
