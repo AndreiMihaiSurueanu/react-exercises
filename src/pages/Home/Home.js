@@ -7,6 +7,7 @@ function Home() {
         <div className='home'>
             <Link to="/dynamicInputFields">Dynamic Input Fields</Link>
             <Link to="/magicPopUp">Magic React Pop-up</Link>
+            <Link to="/video">Video</Link>
         </div>
     )
 }
